@@ -1,2 +1,2 @@
 - Design: http://bit.ly/stylospectrum-design
-- DB Diagrams: https://bit.ly/stylospectrum-db-diagram
+- DB Diagram: https://bit.ly/stylospectrum-db-diagram
